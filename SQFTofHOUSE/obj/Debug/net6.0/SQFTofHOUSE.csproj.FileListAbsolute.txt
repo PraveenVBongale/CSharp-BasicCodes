@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\bin\Debug\net6.0\SQFTofHOUSE.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\bin\Debug\net6.0\SQFTofHOUSE.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\bin\Debug\net6.0\SQFTofHOUSE.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\bin\Debug\net6.0\SQFTofHOUSE.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\bin\Debug\net6.0\ref\SQFTofHOUSE.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\bin\Debug\net6.0\SQFTofHOUSE.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\SQFTofHOUSE.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\SQFTofHOUSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\SQFTofHOUSE.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\SQFTofHOUSE.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\SQFTofHOUSE.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\SQFTofHOUSE.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\ref\SQFTofHOUSE.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\SQFTofHOUSE.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\SQFTofHOUSE\obj\Debug\net6.0\SQFTofHOUSE.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\bin\Debug\net6.0\ref\PrimeNumbers.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\obj\Debug\net6.0\ref\PrimeNumbers.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.genruntimeconfig.cache
