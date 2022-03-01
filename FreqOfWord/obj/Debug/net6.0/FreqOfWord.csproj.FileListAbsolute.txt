@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\bin\Debug\net6.0\FreqOfWord.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\bin\Debug\net6.0\FreqOfWord.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\bin\Debug\net6.0\FreqOfWord.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\bin\Debug\net6.0\FreqOfWord.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\bin\Debug\net6.0\ref\FreqOfWord.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\bin\Debug\net6.0\FreqOfWord.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\FreqOfWord.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\FreqOfWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\FreqOfWord.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\FreqOfWord.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\FreqOfWord.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\FreqOfWord.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\ref\FreqOfWord.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\FreqOfWord.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\FreqOfWord\obj\Debug\net6.0\FreqOfWord.genruntimeconfig.cache

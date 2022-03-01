@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\bin\Debug\net6.0\PersonHeight.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\bin\Debug\net6.0\PersonHeight.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\bin\Debug\net6.0\PersonHeight.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\bin\Debug\net6.0\PersonHeight.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\bin\Debug\net6.0\ref\PersonHeight.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\bin\Debug\net6.0\PersonHeight.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\obj\Debug\net6.0\PersonHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\obj\Debug\net6.0\PersonHeight.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\obj\Debug\net6.0\PersonHeight.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\obj\Debug\net6.0\PersonHeight.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\obj\Debug\net6.0\PersonHeight.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\obj\Debug\net6.0\ref\PersonHeight.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\obj\Debug\net6.0\PersonHeight.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PersonHeight\obj\Debug\net6.0\PersonHeight.genruntimeconfig.cache
