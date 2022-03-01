@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\bin\Debug\net6.0\Average.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\bin\Debug\net6.0\Average.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\bin\Debug\net6.0\Average.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\bin\Debug\net6.0\Average.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\bin\Debug\net6.0\ref\Average.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\bin\Debug\net6.0\Average.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\Average.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\Average.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\Average.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\Average.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\ref\Average.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\Average.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\Average\obj\Debug\net6.0\Average.genruntimeconfig.cache

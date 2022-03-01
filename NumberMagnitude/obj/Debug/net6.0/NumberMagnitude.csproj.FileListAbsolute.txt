@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\bin\Debug\net6.0\NumberMagnitude.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\bin\Debug\net6.0\NumberMagnitude.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\bin\Debug\net6.0\NumberMagnitude.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\bin\Debug\net6.0\NumberMagnitude.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\bin\Debug\net6.0\ref\NumberMagnitude.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\bin\Debug\net6.0\NumberMagnitude.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\obj\Debug\net6.0\NumberMagnitude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\obj\Debug\net6.0\NumberMagnitude.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\obj\Debug\net6.0\NumberMagnitude.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\obj\Debug\net6.0\NumberMagnitude.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\obj\Debug\net6.0\NumberMagnitude.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\obj\Debug\net6.0\ref\NumberMagnitude.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\obj\Debug\net6.0\NumberMagnitude.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberMagnitude\obj\Debug\net6.0\NumberMagnitude.genruntimeconfig.cache

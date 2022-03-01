@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\bin\Debug\net6.0\NoTriangle.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\bin\Debug\net6.0\NoTriangle.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\bin\Debug\net6.0\NoTriangle.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\bin\Debug\net6.0\NoTriangle.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\bin\Debug\net6.0\ref\NoTriangle.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\bin\Debug\net6.0\NoTriangle.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\NoTriangle.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\NoTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\NoTriangle.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\NoTriangle.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\NoTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\NoTriangle.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\ref\NoTriangle.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\NoTriangle.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NoTriangle\obj\Debug\net6.0\NoTriangle.genruntimeconfig.cache
