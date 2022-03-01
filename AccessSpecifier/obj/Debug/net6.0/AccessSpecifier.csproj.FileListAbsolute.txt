@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\bin\Debug\net6.0\AccessSpecifier.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\bin\Debug\net6.0\AccessSpecifier.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\bin\Debug\net6.0\AccessSpecifier.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\bin\Debug\net6.0\AccessSpecifier.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\bin\Debug\net6.0\ref\AccessSpecifier.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\bin\Debug\net6.0\AccessSpecifier.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\obj\Debug\net6.0\AccessSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\obj\Debug\net6.0\AccessSpecifier.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\obj\Debug\net6.0\AccessSpecifier.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\obj\Debug\net6.0\AccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\obj\Debug\net6.0\AccessSpecifier.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\obj\Debug\net6.0\ref\AccessSpecifier.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\obj\Debug\net6.0\AccessSpecifier.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\AccessSpecifier\obj\Debug\net6.0\AccessSpecifier.genruntimeconfig.cache
