@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\bin\Debug\net6.0\PythagorasThm.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\bin\Debug\net6.0\PythagorasThm.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\bin\Debug\net6.0\PythagorasThm.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\bin\Debug\net6.0\PythagorasThm.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\bin\Debug\net6.0\ref\PythagorasThm.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\bin\Debug\net6.0\PythagorasThm.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\obj\Debug\net6.0\PythagorasThm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\obj\Debug\net6.0\PythagorasThm.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\obj\Debug\net6.0\PythagorasThm.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\obj\Debug\net6.0\PythagorasThm.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\obj\Debug\net6.0\PythagorasThm.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\obj\Debug\net6.0\ref\PythagorasThm.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\obj\Debug\net6.0\PythagorasThm.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\PythagorasThm\obj\Debug\net6.0\PythagorasThm.genruntimeconfig.cache

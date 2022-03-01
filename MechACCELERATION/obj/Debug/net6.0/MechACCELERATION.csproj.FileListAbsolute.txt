@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\bin\Debug\net6.0\MechACCELERATION.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\bin\Debug\net6.0\MechACCELERATION.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\bin\Debug\net6.0\MechACCELERATION.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\bin\Debug\net6.0\MechACCELERATION.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\bin\Debug\net6.0\ref\MechACCELERATION.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\bin\Debug\net6.0\MechACCELERATION.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\obj\Debug\net6.0\MechACCELERATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\obj\Debug\net6.0\MechACCELERATION.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\obj\Debug\net6.0\MechACCELERATION.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\obj\Debug\net6.0\MechACCELERATION.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\obj\Debug\net6.0\MechACCELERATION.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\obj\Debug\net6.0\ref\MechACCELERATION.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\obj\Debug\net6.0\MechACCELERATION.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\MechACCELERATION\obj\Debug\net6.0\MechACCELERATION.genruntimeconfig.cache
