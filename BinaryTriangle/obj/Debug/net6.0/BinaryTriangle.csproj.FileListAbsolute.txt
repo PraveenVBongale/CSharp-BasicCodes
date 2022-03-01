@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\bin\Debug\net6.0\BinaryTriangle.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\bin\Debug\net6.0\BinaryTriangle.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\bin\Debug\net6.0\BinaryTriangle.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\bin\Debug\net6.0\BinaryTriangle.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\bin\Debug\net6.0\ref\BinaryTriangle.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\bin\Debug\net6.0\BinaryTriangle.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\BinaryTriangle.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\BinaryTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\BinaryTriangle.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\BinaryTriangle.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\BinaryTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\BinaryTriangle.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\ref\BinaryTriangle.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\BinaryTriangle.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\BinaryTriangle\obj\Debug\net6.0\BinaryTriangle.genruntimeconfig.cache

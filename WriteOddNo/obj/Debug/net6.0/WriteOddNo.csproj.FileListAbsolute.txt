@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\bin\Debug\net6.0\WriteOddNo.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\bin\Debug\net6.0\WriteOddNo.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\bin\Debug\net6.0\WriteOddNo.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\bin\Debug\net6.0\WriteOddNo.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\bin\Debug\net6.0\ref\WriteOddNo.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\bin\Debug\net6.0\WriteOddNo.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\WriteOddNo.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\WriteOddNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\WriteOddNo.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\WriteOddNo.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\WriteOddNo.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\WriteOddNo.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\ref\WriteOddNo.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\WriteOddNo.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\WriteOddNo\obj\Debug\net6.0\WriteOddNo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\bin\Debug\net6.0\ref\CheckEvenOdd.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\ref\CheckEvenOdd.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.genruntimeconfig.cache

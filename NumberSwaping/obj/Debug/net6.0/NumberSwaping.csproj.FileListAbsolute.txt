@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\bin\Debug\net6.0\NumberSwaping.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\bin\Debug\net6.0\NumberSwaping.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\bin\Debug\net6.0\NumberSwaping.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\bin\Debug\net6.0\NumberSwaping.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\bin\Debug\net6.0\ref\NumberSwaping.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\bin\Debug\net6.0\NumberSwaping.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\NumberSwaping.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\NumberSwaping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\NumberSwaping.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\NumberSwaping.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\NumberSwaping.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\NumberSwaping.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\ref\NumberSwaping.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\NumberSwaping.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\NumberSwaping\obj\Debug\net6.0\NumberSwaping.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\bin\Debug\net6.0\DisplaySumOfDigits.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\bin\Debug\net6.0\DisplaySumOfDigits.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\bin\Debug\net6.0\DisplaySumOfDigits.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\bin\Debug\net6.0\DisplaySumOfDigits.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\bin\Debug\net6.0\ref\DisplaySumOfDigits.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\bin\Debug\net6.0\DisplaySumOfDigits.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\obj\Debug\net6.0\DisplaySumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\obj\Debug\net6.0\DisplaySumOfDigits.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\obj\Debug\net6.0\DisplaySumOfDigits.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\obj\Debug\net6.0\DisplaySumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\obj\Debug\net6.0\DisplaySumOfDigits.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\obj\Debug\net6.0\ref\DisplaySumOfDigits.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\obj\Debug\net6.0\DisplaySumOfDigits.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplaySumOfDigits\obj\Debug\net6.0\DisplaySumOfDigits.genruntimeconfig.cache
