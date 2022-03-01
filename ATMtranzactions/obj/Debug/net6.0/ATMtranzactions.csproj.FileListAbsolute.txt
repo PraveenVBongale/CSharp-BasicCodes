@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\bin\Debug\net6.0\ATMtranzactions.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\bin\Debug\net6.0\ATMtranzactions.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\bin\Debug\net6.0\ATMtranzactions.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\bin\Debug\net6.0\ATMtranzactions.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\bin\Debug\net6.0\ref\ATMtranzactions.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\bin\Debug\net6.0\ATMtranzactions.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\obj\Debug\net6.0\ATMtranzactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\obj\Debug\net6.0\ATMtranzactions.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\obj\Debug\net6.0\ATMtranzactions.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\obj\Debug\net6.0\ATMtranzactions.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\obj\Debug\net6.0\ATMtranzactions.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\obj\Debug\net6.0\ref\ATMtranzactions.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\obj\Debug\net6.0\ATMtranzactions.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\ATMtranzactions\obj\Debug\net6.0\ATMtranzactions.genruntimeconfig.cache
