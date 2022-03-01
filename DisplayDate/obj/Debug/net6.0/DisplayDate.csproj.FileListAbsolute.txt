@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\bin\Debug\net6.0\DisplayDate.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\bin\Debug\net6.0\DisplayDate.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\bin\Debug\net6.0\DisplayDate.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\bin\Debug\net6.0\DisplayDate.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\bin\Debug\net6.0\ref\DisplayDate.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\bin\Debug\net6.0\DisplayDate.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\obj\Debug\net6.0\DisplayDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\obj\Debug\net6.0\DisplayDate.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\obj\Debug\net6.0\DisplayDate.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\obj\Debug\net6.0\DisplayDate.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\obj\Debug\net6.0\DisplayDate.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\obj\Debug\net6.0\ref\DisplayDate.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\obj\Debug\net6.0\DisplayDate.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\DisplayDate\obj\Debug\net6.0\DisplayDate.genruntimeconfig.cache

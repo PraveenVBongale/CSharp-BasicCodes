@@ -1,0 +1,14 @@
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\bin\Debug\net6.0\LeapYearOrNot.exe
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\bin\Debug\net6.0\LeapYearOrNot.deps.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\bin\Debug\net6.0\LeapYearOrNot.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\bin\Debug\net6.0\LeapYearOrNot.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\bin\Debug\net6.0\ref\LeapYearOrNot.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\bin\Debug\net6.0\LeapYearOrNot.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\obj\Debug\net6.0\LeapYearOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\obj\Debug\net6.0\LeapYearOrNot.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\obj\Debug\net6.0\LeapYearOrNot.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\obj\Debug\net6.0\LeapYearOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\obj\Debug\net6.0\LeapYearOrNot.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\obj\Debug\net6.0\ref\LeapYearOrNot.dll
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\obj\Debug\net6.0\LeapYearOrNot.pdb
+C:\Users\Guddu PC\Desktop\MyCSharpBasics\ProgramBeginer\LeapYearOrNot\obj\Debug\net6.0\LeapYearOrNot.genruntimeconfig.cache
